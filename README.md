@@ -41,7 +41,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/DanielArellano97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielArellano97&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielArellano97&theme=buefy&layout=compact" />
 </a>
