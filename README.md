@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Estudié en la Universidad del Bío Bío en la ciudad de Chillan, Chile, en donde me titulé como Ingeniero Civil Informatico en enero del 2022.
 - 💼 &nbsp; Actualmente estoy en búsqueda de alguna oportunidad laboral que me permita crecer y desarrollarme de la mejor manera :)
 - 🌱 &nbsp; En estos momentos me encuentro profundizando mis conocimientos en Javascript, Nodejs y Express.
-- 🎸 &nbsp; Me encanta escribir canciones y poder crear musica ya que es una mis pasiones junto con lo audiovisual &hearts;
+- 🎸 &nbsp; Me encanta escribir canciones y poder crear musica ya que es una de mis pasiones junto con lo audiovisual &hearts;
 
 <h3> 🛠 &nbsp;Stack tecnológico</h3>
 
