@@ -23,11 +23,10 @@
   [![MySkills](https://skills.thijs.gg/icons?i=github,git)](https://skills.thijs.gg)
   
 - 🔧 &nbsp;
-  	[![MySkills](https://skills.thijs.gg/icons?i=intellij,visualstudiocode,sprinboot,spring)](https://skills.thijs.gg)
         ![IntelliJ](https://img.shields.io/badge/IntelliJ-FE7A16.svg?style=for-the-badge&logo=IntelliJ&logoColor=black)
 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 	![Springboot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=green)
-        ![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=green)
+        ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=green)
 - 🖥 &nbsp;
   ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
   ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
