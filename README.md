@@ -26,11 +26,11 @@
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
   
 - 🛢 &nbsp;
-  [![MySQL, MongoDB](https://skills.thijs.gg/icons?i=mysql,mongodb)](https://skills.thijs.gg)
+  [![MySkills](https://skills.thijs.gg/icons?i=mysql,mongodb)](https://skills.thijs.gg)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - ⚙️ &nbsp;
-  [![Github, Git](https://skills.thijs.gg/icons?i=github,git)](https://skills.thijs.gg)
+  [![MySkills](https://skills.thijs.gg/icons?i=github,git)](https://skills.thijs.gg)
 - 🔧 &nbsp;
         ![IntelliJ](https://img.shields.io/badge/IntelliJ-FE7A16.svg?style=for-the-badge&logo=IntelliJ&logoColor=black)
 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
