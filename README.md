@@ -2,17 +2,18 @@
 
 <h3> 👨🏻‍💻 &nbsp;Cosas sobre mi </h3>
 
-- 🤔 &nbsp; Me encanta aprender nuevas tecnologías o profundizar aun mas en las que me puedo defender.
-- 🎓 &nbsp; Estudié en la Universidad del Bío Bío en la ciudad de Chillan, Chile, en donde me titulé como Ingeniero Civil Informatico en enero del 2022.
-- 💼 &nbsp; Actualmente estoy en búsqueda de alguna oportunidad laboral que me permita crecer y desarrollarme de la mejor manera :)
-- 🌱 &nbsp; En estos momentos me encuentro profundizando mis conocimientos en Javascript, Nodejs y Express.
+- 🤔 &nbsp; Soy alguien muy curioso que le gusta aprender lo que sea necesario.
+- 🎓 &nbsp; Me titulé como Ingeniero Civil Informatico en enero del 2022 en la Univerisdad Del Bío Bío de mi querida ciudad de Chillán.
+- 🏢 &nbsp; Actualmente trabajo remotamente como Desarrollador Backend con Lenguaje Java en versiones 1.7 y 1.8 :)
+- 🌱 &nbsp; En estos momentos nuevamente comenzare a estudiar Angular en su versión mas actual e ire documentando mis estudios mediante un tipo de blog.
 - 🎸 &nbsp; Me encanta escribir canciones y poder crear musica ya que es una de mis pasiones junto con lo audiovisual &hearts;
 
 <h3> 🛠 &nbsp;Stack tecnológico</h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23ED8B00.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
