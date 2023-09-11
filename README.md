@@ -17,6 +17,7 @@
   
   
 - 🌐 &nbsp;
+  [![MySkills](https://skills.thijs.gg/icons?i=html,css,angular,nodejs,express,nestjs,jwt)](https://skills.thijs.gg)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -27,8 +28,7 @@
   
 - 🛢 &nbsp;
   [![MySkills](https://skills.thijs.gg/icons?i=mysql,mongodb)](https://skills.thijs.gg)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  
 - ⚙️ &nbsp;
   [![MySkills](https://skills.thijs.gg/icons?i=github,git)](https://skills.thijs.gg)
 - 🔧 &nbsp;
