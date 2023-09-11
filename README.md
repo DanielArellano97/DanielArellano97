@@ -11,11 +11,7 @@
 <h3> 🛠 &nbsp;Stack tecnológico</h3>
 
 - 💻 &nbsp;
-  [![MySkills](https://skills.thijs.gg/icons?i=java,typescript,javascript)](https://skills.thijs.gg)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23ED8B00.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  
+  [![MySkills](https://skills.thijs.gg/icons?i=java,typescript,javascript)](https://skills.thijs.gg)  
   
 - 🌐 &nbsp;
   [![MySkills](https://skills.thijs.gg/icons?i=html,css,angular,nodejs,express,nestjs,jwtio)](https://skills.thijs.gg)
