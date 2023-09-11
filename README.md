@@ -54,7 +54,4 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-arellano-a8979a18b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel_Arellano_Gonzalez-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/d.brok_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-d.brok_-blue?style=flat-square&logo=instagram"></a>
-<a><img alt="Email" src="https://img.shields.io/badge/Email-danielarellanogonzalez97@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://twitter.com/DanielAG1697"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-DanielAG1697-blue?style=flat-square&logo=twitter"></a>
 </p>
