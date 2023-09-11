@@ -21,7 +21,9 @@
   
 - ⚙️ &nbsp;
   [![MySkills](https://skills.thijs.gg/icons?i=github,git)](https://skills.thijs.gg)
+  
 - 🔧 &nbsp;
+  	[![MySkills](https://skills.thijs.gg/icons?i=intellij,visualstudiocode,sprinboot,spring)](https://skills.thijs.gg)
         ![IntelliJ](https://img.shields.io/badge/IntelliJ-FE7A16.svg?style=for-the-badge&logo=IntelliJ&logoColor=black)
 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 	![Springboot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=green)
