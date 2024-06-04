@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Me titulé como Ingeniero Civil Informatico en enero del 2022 en la Universidad Del Bío Bío de mi querida ciudad de Chillán.
 - 🏢 &nbsp; Actualmente me desempeño como Arquitecto Junior para Clinica Alemana.
 - 🌱 &nbsp; En estos momentos comenzare a estudiar Docker y Kubernetes en su versión mas actual e ire documentando lo que vaya aprendiendo día a día.
-- 🎸 &nbsp; En cuanto a msi hobbies me encanta grabar y editar musica ya que es una de mis pasiones junto con lo audiovisual &hearts;
+- 🎸 &nbsp; En cuanto a mis hobbies me encanta grabar y editar musica ya que es una de mis pasiones junto con el mundo audiovisual &hearts;
 
 <h3> 🛠 &nbsp;Stack tecnológico</h3>
 
