@@ -1,12 +1,12 @@
-<h2> Hola!! Soy Dani</h2>
+<h2> ¡¡Hola!! Soy Dani</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Cosas sobre mi </h3>
 
 - 🤔 &nbsp; Soy alguien muy curioso que le gusta aprender lo que sea necesario.
-- 🎓 &nbsp; Me titulé como Ingeniero Civil Informatico en enero del 2022 en la Univerisdad Del Bío Bío de mi querida ciudad de Chillán.
-- 🏢 &nbsp; Actualmente trabajo remotamente como Desarrollador Backend con Lenguaje Java en versiones 1.7 y 1.8 :)
-- 🌱 &nbsp; En estos momentos nuevamente comenzare a estudiar Angular en su versión mas actual e ire documentando mis estudios mediante un tipo de blog.
-- 🎸 &nbsp; Me encanta escribir canciones y poder crear musica ya que es una de mis pasiones junto con lo audiovisual &hearts;
+- 🎓 &nbsp; Me titulé como Ingeniero Civil Informatico en enero del 2022 en la Universidad Del Bío Bío de mi querida ciudad de Chillán.
+- 🏢 &nbsp; Actualmente me desempeño como Arquitecto Junior para Clinica Alemana.
+- 🌱 &nbsp; En estos momentos comenzare a estudiar Docker y Kubernetes en su versión mas actual e ire documentando lo que vaya aprendiendo día a día.
+- 🎸 &nbsp; En cuanto a msi hobbies me encanta grabar y editar musica ya que es una de mis pasiones junto con lo audiovisual &hearts;
 
 <h3> 🛠 &nbsp;Stack tecnológico</h3>
 
