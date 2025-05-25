@@ -1,4 +1,4 @@
-<h2> ¡¡Hola!! Soy Dani</h2>
+<h2> ¡Hola Soy Dani!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Cosas sobre mi </h3>
 
